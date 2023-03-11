@@ -1,0 +1,42 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Myra"
+    },
+    {
+      "name": "Beatrice Schiller",
+      "id": 2
+    },
+    {
+      "name": "Stacy Considine",
+      "id": 3
+    },
+    {
+      "name": "Bert Parisian Jr.",
+      "id": 4
+    },
+    {
+      "name": "Mr. Steve Wiza",
+      "id": 5
+    },
+    {
+      "name": "Mr. Earnest Kreiger",
+      "id": 6
+    },
+    {
+      "name": "Blake Wiegand",
+      "id": 7
+    },
+    {
+      "name": "Myrtle Stokes",
+      "id": 8
+    },
+    {
+      "name": "Miss Delbert Rutherford",
+      "id": 9
+    }
+  ],
+  "albums": [],
+  "photos": []
+}
