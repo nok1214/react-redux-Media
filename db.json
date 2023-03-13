@@ -15,12 +15,44 @@
     {
       "name": "Myrtle Stokes",
       "id": 8
-    },
-    {
-      "name": "Russell Mann",
-      "id": 9
     }
   ],
-  "albums": [],
+  "albums": [
+    {
+      "userId": 1,
+      "title": "Generic Granite Shirt",
+      "id": 1
+    },
+    {
+      "userId": 1,
+      "title": "Bespoke Rubber Sausages",
+      "id": 2
+    },
+    {
+      "userId": 1,
+      "title": "Elegant Plastic Shirt",
+      "id": 3
+    },
+    {
+      "userId": 1,
+      "title": "Unbranded Frozen Shirt",
+      "id": 4
+    },
+    {
+      "userId": 1,
+      "title": "Fantastic Frozen Shirt",
+      "id": 5
+    },
+    {
+      "userId": 1,
+      "title": "Elegant Plastic Bike",
+      "id": 6
+    },
+    {
+      "userId": 1,
+      "title": "Luxurious Steel Keyboard",
+      "id": 7
+    }
+  ],
   "photos": []
 }
