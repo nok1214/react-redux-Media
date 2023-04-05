@@ -5,10 +5,6 @@
       "name": "Myra"
     },
     {
-      "name": "Beatrice Schiller",
-      "id": 2
-    },
-    {
       "name": "Stacy Considine",
       "id": 3
     },
@@ -20,39 +16,245 @@
   "albums": [
     {
       "userId": 1,
-      "title": "Generic Granite Shirt",
-      "id": 1
-    },
-    {
-      "userId": 1,
-      "title": "Bespoke Rubber Sausages",
-      "id": 2
-    },
-    {
-      "userId": 1,
-      "title": "Elegant Plastic Shirt",
-      "id": 3
-    },
-    {
-      "userId": 1,
-      "title": "Unbranded Frozen Shirt",
-      "id": 4
-    },
-    {
-      "userId": 1,
       "title": "Fantastic Frozen Shirt",
       "id": 5
     },
     {
       "userId": 1,
-      "title": "Elegant Plastic Bike",
-      "id": 6
+      "title": "Luxurious Steel Keyboard",
+      "id": 7
+    },
+    {
+      "userId": 3,
+      "title": "Handmade Wooden Car",
+      "id": 9
+    },
+    {
+      "userId": 8,
+      "title": "Awesome Metal Computer",
+      "id": 10
     },
     {
       "userId": 1,
-      "title": "Luxurious Steel Keyboard",
-      "id": 7
+      "title": "Elegant Frozen Hat",
+      "id": 11
+    },
+    {
+      "userId": 3,
+      "title": "Recycled Granite Chips",
+      "id": 12
+    },
+    {
+      "userId": 8,
+      "title": "Refined Bronze Shirt",
+      "id": 13
     }
   ],
-  "photos": []
+  "photos": [
+    {
+      "albumId": 5,
+      "url": "https://loremflickr.com/150/150/abstract?lock=1988",
+      "id": 3
+    },
+    {
+      "albumId": 5,
+      "url": "https://loremflickr.com/150/150/abstract?lock=69671",
+      "id": 4
+    },
+    {
+      "albumId": 5,
+      "url": "https://loremflickr.com/150/150/abstract?lock=32361",
+      "id": 5
+    },
+    {
+      "albumId": 5,
+      "url": "https://loremflickr.com/150/150/abstract?lock=11041",
+      "id": 6
+    },
+    {
+      "albumId": 5,
+      "url": "https://loremflickr.com/150/150/abstract?lock=46719",
+      "id": 7
+    },
+    {
+      "albumId": 5,
+      "url": "https://loremflickr.com/150/150/abstract?lock=65548",
+      "id": 8
+    },
+    {
+      "albumId": 5,
+      "url": "https://loremflickr.com/150/150/abstract?lock=71557",
+      "id": 9
+    },
+    {
+      "albumId": 5,
+      "url": "https://loremflickr.com/150/150/abstract?lock=54831",
+      "id": 10
+    },
+    {
+      "albumId": 5,
+      "url": "https://loremflickr.com/150/150/abstract?lock=4450",
+      "id": 11
+    },
+    {
+      "albumId": 5,
+      "url": "https://loremflickr.com/150/150/abstract?lock=41008",
+      "id": 12
+    },
+    {
+      "albumId": 5,
+      "url": "https://loremflickr.com/150/150/abstract?lock=55840",
+      "id": 13
+    },
+    {
+      "albumId": 5,
+      "url": "https://loremflickr.com/150/150/abstract?lock=91792",
+      "id": 14
+    },
+    {
+      "albumId": 7,
+      "url": "https://loremflickr.com/150/150/abstract?lock=2061",
+      "id": 15
+    },
+    {
+      "albumId": 7,
+      "url": "https://loremflickr.com/150/150/abstract?lock=85838",
+      "id": 16
+    },
+    {
+      "albumId": 11,
+      "url": "https://loremflickr.com/150/150/abstract?lock=29824",
+      "id": 17
+    },
+    {
+      "albumId": 11,
+      "url": "https://loremflickr.com/150/150/abstract?lock=70630",
+      "id": 18
+    },
+    {
+      "albumId": 9,
+      "url": "https://loremflickr.com/150/150/abstract?lock=87418",
+      "id": 19
+    },
+    {
+      "albumId": 9,
+      "url": "https://loremflickr.com/150/150/abstract?lock=33978",
+      "id": 20
+    },
+    {
+      "albumId": 9,
+      "url": "https://loremflickr.com/150/150/abstract?lock=32208",
+      "id": 21
+    },
+    {
+      "albumId": 9,
+      "url": "https://loremflickr.com/150/150/abstract?lock=71421",
+      "id": 22
+    },
+    {
+      "albumId": 12,
+      "url": "https://loremflickr.com/150/150/abstract?lock=51711",
+      "id": 23
+    },
+    {
+      "albumId": 12,
+      "url": "https://loremflickr.com/150/150/abstract?lock=91857",
+      "id": 24
+    },
+    {
+      "albumId": 12,
+      "url": "https://loremflickr.com/150/150/abstract?lock=999",
+      "id": 25
+    },
+    {
+      "albumId": 12,
+      "url": "https://loremflickr.com/150/150/abstract?lock=80663",
+      "id": 26
+    },
+    {
+      "albumId": 12,
+      "url": "https://loremflickr.com/150/150/abstract?lock=84943",
+      "id": 27
+    },
+    {
+      "albumId": 12,
+      "url": "https://loremflickr.com/150/150/abstract?lock=5889",
+      "id": 28
+    },
+    {
+      "albumId": 10,
+      "url": "https://loremflickr.com/150/150/abstract?lock=54414",
+      "id": 29
+    },
+    {
+      "albumId": 10,
+      "url": "https://loremflickr.com/150/150/abstract?lock=49616",
+      "id": 30
+    },
+    {
+      "albumId": 10,
+      "url": "https://loremflickr.com/150/150/abstract?lock=99472",
+      "id": 31
+    },
+    {
+      "albumId": 10,
+      "url": "https://loremflickr.com/150/150/abstract?lock=94128",
+      "id": 32
+    },
+    {
+      "albumId": 13,
+      "url": "https://loremflickr.com/150/150/abstract?lock=25167",
+      "id": 33
+    },
+    {
+      "albumId": 13,
+      "url": "https://loremflickr.com/150/150/abstract?lock=70862",
+      "id": 34
+    },
+    {
+      "albumId": 13,
+      "url": "https://loremflickr.com/150/150/abstract?lock=55994",
+      "id": 35
+    },
+    {
+      "albumId": 13,
+      "url": "https://loremflickr.com/150/150/abstract?lock=52275",
+      "id": 36
+    },
+    {
+      "albumId": 13,
+      "url": "https://loremflickr.com/150/150/abstract?lock=70410",
+      "id": 37
+    },
+    {
+      "albumId": 13,
+      "url": "https://loremflickr.com/150/150/abstract?lock=86035",
+      "id": 38
+    },
+    {
+      "albumId": 13,
+      "url": "https://loremflickr.com/150/150/abstract?lock=65357",
+      "id": 39
+    },
+    {
+      "albumId": 13,
+      "url": "https://loremflickr.com/150/150/abstract?lock=41542",
+      "id": 40
+    },
+    {
+      "albumId": 9,
+      "url": "https://loremflickr.com/150/150/abstract?lock=99705",
+      "id": 41
+    },
+    {
+      "albumId": 9,
+      "url": "https://loremflickr.com/150/150/abstract?lock=1006",
+      "id": 42
+    },
+    {
+      "albumId": 11,
+      "url": "https://loremflickr.com/150/150/abstract?lock=81318",
+      "id": 43
+    }
+  ]
 }

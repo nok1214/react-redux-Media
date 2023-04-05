@@ -1,5 +1,5 @@
 import React from "react";
-import { GoTrashcan } from "react-icons/go";
+import { GoTrashcan, GoPerson } from "react-icons/go";
 import { removeUser } from "../store";
 import { useThunk } from "../hooks/use-thunk";
 import Button from "./Button";
@@ -21,6 +21,7 @@ export default function UsersListItem({ user }) {
       {error && <div>Error deleting user.</div>}
 
       {user.name}
+      <GoPerson className="ml-2" />
     </>
   );
   return (
